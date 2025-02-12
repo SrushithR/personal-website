@@ -432,6 +432,11 @@ h6 {
     height: 30px;width: 30px;
 }
 
+.tc {
+    color: var(--mainText);
+    text-decoration: underline;
+}
+
 @media screen and (max-width: 1200px) {
     .main-container {
         width: 95%;
